@@ -37,6 +37,8 @@ The project follows a structured pipeline:
 ### Sources
 - Taiwan Bankruptcy Dataset
 - Poland Bankruptcy Dataset (UCI Repository)
+- [Kaggle Dataset](https://www.kaggle.com/datasets/shaikasif89/cross-country-corporate-bankruptcy-prediction-data)
+
 
 ### Dataset Details
 | Parameter | Description |
